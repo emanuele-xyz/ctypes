@@ -26,7 +26,7 @@ typedef unsigned long long u64;
 typedef float  f32;
 typedef double f64;
 
-// NOTE: Check if size is correct
+// NOTE: Check whether size is correct
 
 static_assert(sizeof(i8)  == 1, "sizeof(i8)  == 1");
 static_assert(sizeof(i16) == 2, "sizeof(i16) == 2");
