@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ctypes.h">
+    <ClInclude Include="include\ctypes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="example.c">
+    <ClCompile Include="src\example.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

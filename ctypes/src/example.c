@@ -1,4 +1,4 @@
-#include "ctypes.h"
+#include <ctypes.h>
 
 int main(void)
 {
